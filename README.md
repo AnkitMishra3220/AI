@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-How to Stat ?
+How to Start ?
 
 - Mathematics - 11 Weeks 
   - [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) - 4 Weeks 
